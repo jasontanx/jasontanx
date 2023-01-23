@@ -42,6 +42,9 @@ I am currently working as a Data Engineer.
 - Data Analytics
 - Data Engineering
 
+## 🎓 Completed Certification
+- GCP Associate Cloud Engineer Certification (Issued on 19 December 2022 - Valid until 19 December 2025)
+
 
 ## 📫 Connect with me! 
 - [LinkedIn](https://www.linkedin.com/in/junshengtan/) 
