@@ -26,6 +26,7 @@ I am currently working as a Data Engineer.
 - BI Platform / Tools: Tableau, SAP Lumira
 - Statistic Software: SPSS, SAS Studio
 - Orchestration: Apache Airflow
+- Infrastructure as Code (IaC): Terraform
 
 2. Skills✔️
 
