@@ -12,7 +12,7 @@ I am currently working as a Data Engineer.
 
 🌐 Update my personal portfolio web page -> https://www.notion.so/The-Data-Playground-My-Profile-eb4c630f8a3440888af2c24baa97e50d
 
-📗 Enjoy reading books & newspapers -> To keep myself updated with the current state of affairs
+📗 Enjoy reading books, watching football & newspapers -> To keep myself updated with the current state of affairs
 
 🎾 Loves playing badminton 
 
@@ -25,7 +25,7 @@ I am currently working as a Data Engineer.
 - Programming: SQL, Python, R Programming
 - BI Platform / Tools: Tableau, SAP Lumira
 - Statistic Software: SPSS, SAS Studio
-- Orchestration: Apache Airflow
+- Orchestration: Apache Airflow / Cloud Composer
 - Infrastructure as Code (IaC): Terraform
 
 2. Skills✔️
@@ -44,8 +44,8 @@ I am currently working as a Data Engineer.
 - Data Engineering
 
 ## 🎓 Completed Certification
-- GCP Associate Cloud Engineer Certification (Issued on 19 December 2022 - Valid until 19 December 2025)
-
+- GCP Associate Cloud Engineer Certification (Issued on Dec 2022)
+- GCP Professional Data Engineer (Issued on Feb 2025)
 
 ## 📫 Connect with me! 
 - [LinkedIn](https://www.linkedin.com/in/junshengtan/) 
