@@ -10,7 +10,9 @@ I am currently working as a Data Engineer.
 
 📊 Pursued MSc in Data Science and Business Analytics at Asia Pacific University (APU) 
 
-🌐 Update my personal portfolio web page -> https://www.notion.so/The-Data-Playground-My-Profile-eb4c630f8a3440888af2c24baa97e50d
+🌐 Update my personal portfolio web page -> https://jasontanx.github.io/
+
+[to be archived] https://www.notion.so/The-Data-Playground-My-Profile-eb4c630f8a3440888af2c24baa97e50d
 
 📗 Enjoy reading books, watching football & newspapers -> To keep myself updated with the current state of affairs
 
